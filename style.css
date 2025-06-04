@@ -67,3 +67,12 @@ button:hover{
     grid-row: span 3;
     color: #fff;
 }
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 82vh;
+  margin: 0;
+  background-color: #f4f4f4;
+}
